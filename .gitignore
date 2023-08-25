@@ -1,0 +1,5 @@
+Cache
+Package
+*.json
+*.csv
+Get-MyProvisionedPackageOffline.ps1
